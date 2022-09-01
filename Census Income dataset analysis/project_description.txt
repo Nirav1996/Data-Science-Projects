@@ -1,1 +1,3 @@
+This project implements the entire data analysis and machine learning workflow on census income or adult dataset.
+Data preprocessing and data exploration is performed to derive insights.
 
