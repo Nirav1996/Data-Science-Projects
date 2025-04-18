@@ -1,4 +1,4 @@
 The objective of this project is to predict the price of an airline ticket for a domestic flight in india using machine learning algorithms.
-Dataset is sourced from Kaggle and data exploration,data preprocessing and regression algorithms are used to perform prediction.
+Dataset is sourced from Kaggle and various steps in data science lifecycle like data exploration,data preprocessing and regression algorithms are used to perform prediction.
 The link of the dataset is as under:-
 https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
