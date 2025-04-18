@@ -1,4 +1,4 @@
 This project implements the entire data analysis and machine learning workflow on census income or adult dataset.The prediction task is to determine whether an individual's income is below or above 50k based on his/her certain attributes and hence this is a classification problem.
 Data preprocessing and data exploration is performed to derive insights.
 Classification algorithms are applied to build models and confusion matrix is plotted.
-Metrics such as accuracy is used to evaluate the model.
+To compare different classification algorithms that are applied,the metric used is Accuracy.
